@@ -55,7 +55,7 @@ Professional experience in demanding operational environments, with a focus on p
 
 - LinkedIn: linkedin.com/in/ramonflorescarmona
   
-- Email: ramonflocar@gmail.com
+
 
 ---
 
