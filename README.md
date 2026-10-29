@@ -12,6 +12,9 @@ Perfil técnico y analítico orientado a seguridad informática, seguridad de re
 Experiencia profesional en entornos operacionales exigentes, con orientación al cumplimiento de procedimientos, confidencialidad y responsabilidad.
 
 
+
+
+
 Professional Military Reservist (RED). 
 
 Cyber Threat Intelligence Analyst & OSINT Analyst, with training in CEH, CEH Practical (CEH-MASTER), CND, SOC Analyst and Incident Handling, complemented by training in Data Science. 
