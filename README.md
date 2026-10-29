@@ -4,13 +4,20 @@
 
 ## 🧑‍💻 Perfil Profesional / Professional Profile
 Militar Profesional en la Reserva (RED). 
+
 Cyber Threat Intelligence Analyst & OSINT Analyst, con formación en CEH, CEH Practical (CEH-MASTER), CND, SOC Analyst e Incident Handling, complementadas con formación en Data Science. 
+
 Perfil técnico y analítico orientado a seguridad informática, seguridad de redes, análisis de vulnerabilidades, detección de amenazas, monitorización SOC y respuesta ante incidentes. 
+
 Experiencia profesional en entornos operacionales exigentes, con orientación al cumplimiento de procedimientos, confidencialidad y responsabilidad.
 
+
 Professional Military Reservist (RED). 
+
 Cyber Threat Intelligence Analyst & OSINT Analyst, with training in CEH, CEH Practical (CEH-MASTER), CND, SOC Analyst and Incident Handling, complemented by training in Data Science. 
+
 Technical and analytical profile focused on information security, network security, vulnerability analysis, threat detection, SOC monitoring and incident response.
+
 Professional experience in demanding operational environments, with a focus on procedural compliance, confidentiality and accountability.
 
 ---
