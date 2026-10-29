@@ -1,4 +1,4 @@
-## Hola / Hi  👋
+## ¡Hola! / Hello!  👋
 
 # Sobre mí / About Me
 
