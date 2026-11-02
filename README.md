@@ -1,57 +1,56 @@
-## ¡Hola! / Hello!  👋
 
-# Sobre mí / About Me
+# 👋 Hola, soy Ramón Flores
 
-## 🧑‍💻 Perfil Profesional / Professional Profile
-Militar Profesional en la Reserva (RED). 
+### Cyber Threat Intelligence | OSINT Analyst | Cybersecurity
 
-Cyber Threat Intelligence Analyst & OSINT Analyst, con formación en CEH, CEH Practical (CEH-MASTER), CND, SOC Analyst e Incident Handling, complementadas con formación en Data Science. 
+Profesional orientado a la ciberseguridad, especializado en **Open Source Intelligence (OSINT)** y **Cyber Threat Intelligence (CTI)**.
 
-Perfil técnico y analítico orientado a seguridad informática, seguridad de redes, análisis de vulnerabilidades, detección de amenazas, monitorización SOC y respuesta ante incidentes. 
+Mi interés se centra en la investigación de amenazas, la recopilación y análisis de información de fuentes abiertas y la identificación de indicadores que permitan anticipar, comprender y prevenir riesgos de ciberseguridad.
 
-Experiencia profesional en entornos operacionales exigentes, con orientación al cumplimiento de procedimientos, confidencialidad y responsabilidad.
-
-
-
-
-
-Professional Military Reservist (RED). 
-
-Cyber Threat Intelligence Analyst & OSINT Analyst, with training in CEH, CEH Practical (CEH-MASTER), CND, SOC Analyst and Incident Handling, complemented by training in Data Science. 
-
-Technical and analytical profile focused on information security, network security, vulnerability analysis, threat detection, SOC monitoring and incident response.
-
-Professional experience in demanding operational environments, with a focus on procedural compliance, confidentiality and accountability.
+Me motiva transformar datos e información dispersa en inteligencia útil para la toma de decisiones y la protección de activos digitales.
 
 ---
 
+## 🔍 Áreas de especialización
 
-## 📜 Formación / Education
+- **OSINT:** investigación digital, recopilación de información de fuentes abiertas y análisis de huella digital.
+- **Cyber Threat Intelligence:** análisis de amenazas, actores maliciosos, TTPs e indicadores de compromiso (IoCs).
+- **Threat Hunting:** identificación de comportamientos sospechosos y análisis de posibles amenazas.
+- **Digital Investigations:** investigación de dominios, infraestructura, exposición digital y relaciones entre entidades.
+- **Threat Intelligence Reporting:** elaboración de informes técnicos y ejecutivos basados en evidencias.
 
-•	2025 - EC-Council Certified Ethical Hacker Practical (CEH-MASTER)
+## 🛠️ Herramientas y tecnologías
 
-•	2025 - EC-Council Certified Ethical Hacker (CEH)
+| Categoría | Tecnologías |
+|---|---|
+| OSINT | Maltego, SpiderFoot, theHarvester |
+| Threat Intelligence | MITRE ATT&CK, MISP, OpenCTI |
+| Análisis de red | Wireshark, Nmap |
+| Automatización | Python, Bash |
+| Sistemas | Linux, Windows |
+| Documentación | Markdown, Git, GitHub |
 
-•	2024 - EC-Council Certified Network Defender (CND)
+## 📂 Proyectos y laboratorios
 
-•	2023 - INCIBE Curso Básico Técnico de Ciberseguridad
+En este perfil comparto proyectos prácticos, investigaciones y laboratorios relacionados con la ciberseguridad.
 
-•	2023 - EC-Council Certified Incident Handler (IH&R)
+- **OSINT Investigations:** ejercicios de investigación con fuentes abiertas y metodología reproducible.
+- **Threat Intelligence Reports:** análisis de amenazas, TTPs e indicadores de compromiso.
+- **Cybersecurity Labs:** prácticas de análisis, detección y respuesta ante amenazas.
+- **Python for Cybersecurity:** scripts para automatizar tareas de investigación y análisis.
 
-•	2023 - EC-Council Certified SOC Analyst (CSA)
+## 🎯 Objetivo profesional
 
-•	2022 - EC-Council Certified Security Specialist (ECSS)
-
-•	2022 - INCIBE Academia Hacker 40 Capture The Flag (CTF)
-
+Desarrollarme profesionalmente en el ámbito de la **Cyber Threat Intelligence y OSINT**, contribuyendo a la detección temprana de amenazas, la investigación de incidentes y la mejora de las capacidades de inteligencia de seguridad.
 
 ---
 
-## 📫 Contacto / Contact
+## 📫 Contacto
 
 - LinkedIn: linkedin.com/in/ramonflorescarmona
-  
-
 
 ---
+
+*La información publicada en este perfil tiene fines educativos y profesionales. Todas las investigaciones se realizan de forma ética y sobre fuentes y sistemas autorizados.*
+
 
